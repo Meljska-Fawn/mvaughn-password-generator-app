@@ -22,8 +22,8 @@ Please refer to the LICENSE in the repo.
 
 ## Links
 
-* [Link to the deployed webpage] (https://meljska-fawn.github.io/melissa-vaughn-portfolio-website/)
-* [Link to Github repository] (https://github.com/Meljska-Fawn/mvaughn-password-generator-app)
+* [Link to the deployed webpage] https://meljska-fawn.github.io/mvaughn-password-generator-app/
+* [Link to Github repository] https://github.com/Meljska-Fawn/mvaughn-password-generator-app
 
 
 ## Preview
